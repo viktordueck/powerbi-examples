@@ -2,7 +2,7 @@
 
 
 
-Video zu diesem Beispiel: [https://www.viktordueck.de/urlaubsrueckstellung-powerbi](https://www.viktordueck.de/urlaubsrueckstellung-powerbi)
+Video zu diesem Beispiel: [https://www.viktordueck.de/urlaubsrueckstellung-in-powerbi-berechnen](https://www.viktordueck.de/urlaubsrueckstellung-in-powerbi-berechnen)
 
 Verwendete Power Query Scripts:
 
